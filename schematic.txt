@@ -1,0 +1,27 @@
+Class
+    - Teachers (no index)
+    - Students (no index)
+    - Unique URL
+    - Contributions (no index)
+    - Discussions (no index)
+
+Discussion
+    - Class
+    - Start Time
+    - Stop Time (no index)
+    - Contributions (no index)
+    - Items
+
+Item
+    - User
+    - Timestamp
+    - Contribution ID
+
+Contribution
+    - ID
+    - Type
+    - Color
+
+To Research:
+    React Router
+    OAuth (specifically google) with SPA
